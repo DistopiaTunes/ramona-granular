@@ -3,8 +3,11 @@ main-backup.c
 
 #Samples
 
-
+*.wav
 
 # Arquivos do sistema operacional
 .DS_Store
 Thumbs.db
+
+#zone
+*Zone.Identifier
